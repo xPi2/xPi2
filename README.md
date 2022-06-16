@@ -1,4 +1,4 @@
-## Hello world! <img src="https://media0.giphy.com/media/WtvO1KoyUU3Gs3J7co/giphy.gif" width="25px">
+## Hello world! <img src="https://media0.giphy.com/media/WtvO1KoyUU3Gs3J7co/giphy.gif" width="25">
 
 Let's build something together.
 
