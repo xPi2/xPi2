@@ -3,11 +3,12 @@
 Let's build something together.
 
 ### My interests 🚀
-<h4> Data • Finance • Crypto • Space • Design <h4/>
-
+<h4> Data • Finance • DAOs • Space • Design <h4/>
+ 
 ### My tech stack 🏗️
+
+#### Classics that never die
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -19,15 +20,18 @@ Let's build something together.
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <p/>
 
-#### 🌱 Lately 
+#### Daily drivers
 <p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
-  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<p/>
+
+#### Growing on 🌱 
+<p>
+  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
 <p/>
 
 ---
 
-#### 👨‍💻 Currently starting new projects
 #### 📫 Reach me through [@0xGallego](https://twitter.com/0xgallego) or [@Pi2Machine](https://t.me/Pi2Machine).
-  
